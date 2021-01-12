@@ -1,0 +1,56 @@
+
+
+
+
+div#ism div{
+    display: inline-block;
+    width: 48%;
+}
+ div#ism div h1,p, iframe{
+
+ 	margin: 35px;
+ }
+div#ism div.leftbox{
+
+     vertical-align: top;
+
+}
+
+div#ism div img{
+
+     position: center;
+     
+}
+
+div#ism div.rightbox{
+     background-color: #E6E2A1;
+}
+div#ism div.annonce{
+	background-color: #CEC541;
+	width: 100%;
+	margin: 8px;
+}
+div#ism div  iframe{
+         margin-top: 0px;
+ 	     margin-left:120px;
+ 	
+ }
+ div#ism div.rightbox p,h1{
+ 	margin-left: 100px;
+ }
+  div#ism div.leftbox h2{
+ 	margin-left: 150px;
+ 	height: 10px;
+ }
+ footer{
+
+    
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    background: whitesmoke;
+    height: 100px;
+    padding: 20px;
+    margin-top: 20px;
+
+}
